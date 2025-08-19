@@ -4,7 +4,7 @@ This is a simple web application that converts Arabic numbers (integers) into Ro
 
 ## Features
 
-- Convert numbers from **1 to 3999** into Roman numerals .
+- Convert numbers from **1 to 3999** into Roman numerals.
 - Handles invalid input and edge cases with appropriate messages.
 - Clean, responsive user interface.
 
