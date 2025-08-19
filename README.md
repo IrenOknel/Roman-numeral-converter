@@ -10,7 +10,7 @@ This is a simple web application that converts Arabic numbers (integers) into Ro
 
 ## User Stories
 
-- You should have an input element with an `id="number"`.
+- You should have an input element with an `id="number"` .
 - You should have a button element with an `id="convert-btn"`.
 - You should have an element with an `id="output"` to display results.
 - Shows `"Please enter a valid number"` if no value is entered.
